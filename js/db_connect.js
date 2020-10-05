@@ -1,5 +1,5 @@
 
-const sequelize = require('./_database.js')
+const sequelize = require('../sequelize/_database.js')
 
 async function test(){
     try {
