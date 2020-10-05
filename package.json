@@ -1,0 +1,23 @@
+{
+  "name": "postgre",
+  "version": "1.0.0",
+  "description": "Curso Desenvolvimento back-end com Node.js da Digital Innovation One",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angvieira/node-postgre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angvieira/node-postgre/issues"
+  },
+  "homepage": "https://github.com/angvieira/node-postgre#readme",
+  "dependencies": {
+    "pg": "^8.4.0",
+    "sequelize": "^6.3.5"
+  }
+}
